@@ -1,0 +1,738 @@
+{
+  "built_on": "2026-11-08",
+  "counties": [
+    {
+      "fips": "45001",
+      "name": "Abbeville",
+      "hearing_pct": 8.5,
+      "estimated_adults_hearing": 1670,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 233126.17
+    },
+    {
+      "fips": "45003",
+      "name": "Aiken",
+      "hearing_pct": 7.3,
+      "estimated_adults_hearing": 10149,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 6926611.01
+    },
+    {
+      "fips": "45005",
+      "name": "Allendale",
+      "hearing_pct": 7.6,
+      "estimated_adults_hearing": 459,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 3312808.77
+    },
+    {
+      "fips": "45007",
+      "name": "Anderson",
+      "hearing_pct": 7.6,
+      "estimated_adults_hearing": 12550,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 1483574.5
+    },
+    {
+      "fips": "45009",
+      "name": "Bamberg",
+      "hearing_pct": 7.7,
+      "estimated_adults_hearing": 812,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 4155439.03
+    },
+    {
+      "fips": "45011",
+      "name": "Barnwell",
+      "hearing_pct": 8.5,
+      "estimated_adults_hearing": 1323,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 2263601.99
+    },
+    {
+      "fips": "45013",
+      "name": "Beaufort",
+      "hearing_pct": 8.2,
+      "estimated_adults_hearing": 13531,
+      "tornado_records_2023_2025": 5,
+      "hurricane_eal_usd": 200604699.39
+    },
+    {
+      "fips": "45015",
+      "name": "Berkeley",
+      "hearing_pct": 6.2,
+      "estimated_adults_hearing": 12135,
+      "tornado_records_2023_2025": 3,
+      "hurricane_eal_usd": 116404510.29
+    },
+    {
+      "fips": "45017",
+      "name": "Calhoun",
+      "hearing_pct": 7.9,
+      "estimated_adults_hearing": 913,
+      "tornado_records_2023_2025": 4,
+      "hurricane_eal_usd": 1690676.74
+    },
+    {
+      "fips": "45019",
+      "name": "Charleston",
+      "hearing_pct": 5.9,
+      "estimated_adults_hearing": 20219,
+      "tornado_records_2023_2025": 10,
+      "hurricane_eal_usd": 281333148.37
+    },
+    {
+      "fips": "45021",
+      "name": "Cherokee",
+      "hearing_pct": 7.9,
+      "estimated_adults_hearing": 3458,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 537271.96
+    },
+    {
+      "fips": "45023",
+      "name": "Chester",
+      "hearing_pct": 8.0,
+      "estimated_adults_hearing": 2011,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 248672.0
+    },
+    {
+      "fips": "45025",
+      "name": "Chesterfield",
+      "hearing_pct": 8.3,
+      "estimated_adults_hearing": 2842,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 6243906.53
+    },
+    {
+      "fips": "45027",
+      "name": "Clarendon",
+      "hearing_pct": 8.7,
+      "estimated_adults_hearing": 2219,
+      "tornado_records_2023_2025": 4,
+      "hurricane_eal_usd": 11253302.94
+    },
+    {
+      "fips": "45029",
+      "name": "Colleton",
+      "hearing_pct": 8.1,
+      "estimated_adults_hearing": 2430,
+      "tornado_records_2023_2025": 4,
+      "hurricane_eal_usd": 20143320.31
+    },
+    {
+      "fips": "45031",
+      "name": "Darlington",
+      "hearing_pct": 7.5,
+      "estimated_adults_hearing": 3639,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 3935305.92
+    },
+    {
+      "fips": "45033",
+      "name": "Dillon",
+      "hearing_pct": 8.4,
+      "estimated_adults_hearing": 1738,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 20117333.58
+    },
+    {
+      "fips": "45035",
+      "name": "Dorchester",
+      "hearing_pct": 6.1,
+      "estimated_adults_hearing": 7885,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 84454199.88
+    },
+    {
+      "fips": "45037",
+      "name": "Edgefield",
+      "hearing_pct": 7.6,
+      "estimated_adults_hearing": 1751,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 503669.31
+    },
+    {
+      "fips": "45039",
+      "name": "Fairfield",
+      "hearing_pct": 8.1,
+      "estimated_adults_hearing": 1358,
+      "tornado_records_2023_2025": 5,
+      "hurricane_eal_usd": 683828.04
+    },
+    {
+      "fips": "45041",
+      "name": "Florence",
+      "hearing_pct": 6.7,
+      "estimated_adults_hearing": 7030,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 22784930.07
+    },
+    {
+      "fips": "45043",
+      "name": "Georgetown",
+      "hearing_pct": 8.7,
+      "estimated_adults_hearing": 4773,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 63561453.33
+    },
+    {
+      "fips": "45045",
+      "name": "Greenville",
+      "hearing_pct": 6.4,
+      "estimated_adults_hearing": 27578,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 3489849.83
+    },
+    {
+      "fips": "45047",
+      "name": "Greenwood",
+      "hearing_pct": 7.8,
+      "estimated_adults_hearing": 4213,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 924248.52
+    },
+    {
+      "fips": "45049",
+      "name": "Hampton",
+      "hearing_pct": 7.7,
+      "estimated_adults_hearing": 1112,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 8306222.92
+    },
+    {
+      "fips": "45051",
+      "name": "Horry",
+      "hearing_pct": 8.5,
+      "estimated_adults_hearing": 28141,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 200471151.76
+    },
+    {
+      "fips": "45053",
+      "name": "Jasper",
+      "hearing_pct": 8.1,
+      "estimated_adults_hearing": 2231,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 21531992.48
+    },
+    {
+      "fips": "45055",
+      "name": "Kershaw",
+      "hearing_pct": 7.1,
+      "estimated_adults_hearing": 3808,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 3905740.48
+    },
+    {
+      "fips": "45057",
+      "name": "Lancaster",
+      "hearing_pct": 7.6,
+      "estimated_adults_hearing": 6453,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 947993.74
+    },
+    {
+      "fips": "45059",
+      "name": "Laurens",
+      "hearing_pct": 7.9,
+      "estimated_adults_hearing": 4258,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 954113.52
+    },
+    {
+      "fips": "45061",
+      "name": "Lee",
+      "hearing_pct": 7.5,
+      "estimated_adults_hearing": 971,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 2600381.27
+    },
+    {
+      "fips": "45063",
+      "name": "Lexington",
+      "hearing_pct": 6.8,
+      "estimated_adults_hearing": 16238,
+      "tornado_records_2023_2025": 8,
+      "hurricane_eal_usd": 13001271.27
+    },
+    {
+      "fips": "45067",
+      "name": "Marion",
+      "hearing_pct": 8.1,
+      "estimated_adults_hearing": 1803,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 12530623.34
+    },
+    {
+      "fips": "45069",
+      "name": "Marlboro",
+      "hearing_pct": 8.4,
+      "estimated_adults_hearing": 1724,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 3246708.96
+    },
+    {
+      "fips": "45065",
+      "name": "McCormick",
+      "hearing_pct": 10.7,
+      "estimated_adults_hearing": 955,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 158349.82
+    },
+    {
+      "fips": "45071",
+      "name": "Newberry",
+      "hearing_pct": 7.8,
+      "estimated_adults_hearing": 2379,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 1515643.83
+    },
+    {
+      "fips": "45073",
+      "name": "Oconee",
+      "hearing_pct": 9.1,
+      "estimated_adults_hearing": 6001,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 601343.14
+    },
+    {
+      "fips": "45075",
+      "name": "Orangeburg",
+      "hearing_pct": 7.4,
+      "estimated_adults_hearing": 4826,
+      "tornado_records_2023_2025": 6,
+      "hurricane_eal_usd": 14846851.38
+    },
+    {
+      "fips": "45077",
+      "name": "Pickens",
+      "hearing_pct": 7.3,
+      "estimated_adults_hearing": 8069,
+      "tornado_records_2023_2025": 3,
+      "hurricane_eal_usd": 615342.81
+    },
+    {
+      "fips": "45079",
+      "name": "Richland",
+      "hearing_pct": 5.2,
+      "estimated_adults_hearing": 17371,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 18792668.52
+    },
+    {
+      "fips": "45081",
+      "name": "Saluda",
+      "hearing_pct": 8.6,
+      "estimated_adults_hearing": 1282,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 725560.85
+    },
+    {
+      "fips": "45083",
+      "name": "Spartanburg",
+      "hearing_pct": 6.8,
+      "estimated_adults_hearing": 18594,
+      "tornado_records_2023_2025": 2,
+      "hurricane_eal_usd": 2208834.62
+    },
+    {
+      "fips": "45085",
+      "name": "Sumter",
+      "hearing_pct": 6.6,
+      "estimated_adults_hearing": 5251,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 9824378.32
+    },
+    {
+      "fips": "45087",
+      "name": "Union",
+      "hearing_pct": 9.1,
+      "estimated_adults_hearing": 1920,
+      "tornado_records_2023_2025": 3,
+      "hurricane_eal_usd": 414930.67
+    },
+    {
+      "fips": "45089",
+      "name": "Williamsburg",
+      "hearing_pct": 7.6,
+      "estimated_adults_hearing": 1839,
+      "tornado_records_2023_2025": 0,
+      "hurricane_eal_usd": 14890582.55
+    },
+    {
+      "fips": "45091",
+      "name": "York",
+      "hearing_pct": 6.0,
+      "estimated_adults_hearing": 13701,
+      "tornado_records_2023_2025": 1,
+      "hurricane_eal_usd": 1385573.66
+    }
+  ],
+  "evidence": [
+    {
+      "fips": "45013",
+      "criterion": "TEXT_ALERTS",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.beaufortcountysc.gov/news/2026/05/hurricane-season-begins-monday%2C-june-1-stay-informed-and-prepare-now.html",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45013",
+      "criterion": "CLEAR_ALERT_TEXT",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.beaufortcountysc.gov/news/2026/05/hurricane-season-begins-monday%2C-june-1-stay-informed-and-prepare-now.html",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45013",
+      "criterion": "CAPTIONS_TRANSCRIPTS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.beaufortcountysc.gov/public-information/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45013",
+      "criterion": "INTERPRETER_OPTIONS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.beaufortcountysc.gov/public-information/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45013",
+      "criterion": "ACCESSIBLE_WEB",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.beaufortcountysc.gov/ems/Emergency%20Preparedness.html",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45013",
+      "criterion": "NONVOICE_CONTACT",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.beaufortcountysc.gov/public-information/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45013",
+      "criterion": "SHELTER_COMMUNICATION",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.beaufortcountysc.gov/ems/Emergency%20Preparedness.html",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45019",
+      "criterion": "TEXT_ALERTS",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.charlestoncounty.gov/news/2026/charleston-county-emergency-management-launches-chsalerts.pdf?v=88",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45019",
+      "criterion": "CLEAR_ALERT_TEXT",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.charlestoncounty.gov/news/2026/charleston-county-prepares-for-hazardous-weekend-weather-urges-residents-to-limit-travel-saturday.pdf?v=88",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45019",
+      "criterion": "CAPTIONS_TRANSCRIPTS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.charlestoncounty.gov/hurricaneinfo.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45019",
+      "criterion": "INTERPRETER_OPTIONS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.charlestoncounty.gov/contact.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45019",
+      "criterion": "ACCESSIBLE_WEB",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.charlestoncounty.gov/departments/emergency-management/emergency-info.php?r=0",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45019",
+      "criterion": "NONVOICE_CONTACT",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.charlestoncounty.gov/contact.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45019",
+      "criterion": "SHELTER_COMMUNICATION",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.charlestoncounty.gov/departments/emergency-management/hurricane.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45045",
+      "criterion": "TEXT_ALERTS",
+      "status": "Documented in official source",
+      "public_source_url": "https://gcso.org/code-red/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45045",
+      "criterion": "CLEAR_ALERT_TEXT",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://gceoc.com/stay-informed/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45045",
+      "criterion": "CAPTIONS_TRANSCRIPTS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://gceoc.com/stay-informed/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45045",
+      "criterion": "INTERPRETER_OPTIONS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://gceoc.com/contact/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45045",
+      "criterion": "ACCESSIBLE_WEB",
+      "status": "Documented in official source",
+      "public_source_url": "https://gceoc.com/make-a-plan/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45045",
+      "criterion": "NONVOICE_CONTACT",
+      "status": "Documented in official source",
+      "public_source_url": "https://gceoc.com/contact/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45045",
+      "criterion": "SHELTER_COMMUNICATION",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://gceoc.com/make-a-plan/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45051",
+      "criterion": "TEXT_ALERTS",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.horrycountysc.gov/departments/emergency-management/flooding/flood-safety/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45051",
+      "criterion": "CLEAR_ALERT_TEXT",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.horrycountysc.gov/departments/emergency-management/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45051",
+      "criterion": "CAPTIONS_TRANSCRIPTS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.horrycountysc.gov/departments/emergency-management/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45051",
+      "criterion": "INTERPRETER_OPTIONS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.horrycountysc.gov/departments/emergency-management/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45051",
+      "criterion": "ACCESSIBLE_WEB",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.horrycountysc.gov/departments/emergency-management/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45051",
+      "criterion": "NONVOICE_CONTACT",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.horrycountysc.gov/departments/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45051",
+      "criterion": "SHELTER_COMMUNICATION",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.horrycountysc.gov/departments/emergency-management/",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45063",
+      "criterion": "TEXT_ALERTS",
+      "status": "Documented in official source",
+      "public_source_url": "https://lex-co.sc.gov/departments/public-safety-0/emergency-management-division/register-emergency-notifications",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45063",
+      "criterion": "CLEAR_ALERT_TEXT",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://lex-co.sc.gov/departments/public-safety-0/emergency-management-division/register-emergency-notifications",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45063",
+      "criterion": "CAPTIONS_TRANSCRIPTS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.lex-co.sc.gov/departments/public-safety/emergency-management-division",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45063",
+      "criterion": "INTERPRETER_OPTIONS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.lex-co.sc.gov/departments/public-safety/emergency-management-division",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45063",
+      "criterion": "ACCESSIBLE_WEB",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.lex-co.sc.gov/departments/public-safety/emergency-management-division",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45063",
+      "criterion": "NONVOICE_CONTACT",
+      "status": "Documented in official source",
+      "public_source_url": "https://lex-co.sc.gov/directories/building-directory/email-directory",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45063",
+      "criterion": "SHELTER_COMMUNICATION",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://lex-co.sc.gov/lexington-county-weather-information",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45065",
+      "criterion": "TEXT_ALERTS",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.mccormickcountysc.org/departments/emergency_services/index.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45065",
+      "criterion": "CLEAR_ALERT_TEXT",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.mccormickcountysc.org/departments/emergency_services/emergency_management.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45065",
+      "criterion": "CAPTIONS_TRANSCRIPTS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.mccormickcountysc.org/departments/emergency_services/emergency_management.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45065",
+      "criterion": "INTERPRETER_OPTIONS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.mccormickcountysc.org/departments/emergency_services/index.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45065",
+      "criterion": "ACCESSIBLE_WEB",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.mccormickcountysc.org/departments/emergency_services/emergency_management.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45065",
+      "criterion": "NONVOICE_CONTACT",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.mccormickcountysc.org/departments/emergency_services/index.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45065",
+      "criterion": "SHELTER_COMMUNICATION",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.mccormickcountysc.org/departments/emergency_services/emergency_management.php",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45073",
+      "criterion": "TEXT_ALERTS",
+      "status": "Documented in official source",
+      "public_source_url": "https://www.oconeelaw.com/alertoconee",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45073",
+      "criterion": "CLEAR_ALERT_TEXT",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://www.oconeelaw.com/alertoconee",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45073",
+      "criterion": "CAPTIONS_TRANSCRIPTS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://oconeesc.com/emergency-services-home/emergency-management-home",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45073",
+      "criterion": "INTERPRETER_OPTIONS",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://oconeesc.com/emergency-services-home/emergency-management-home",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45073",
+      "criterion": "ACCESSIBLE_WEB",
+      "status": "Documented in official source",
+      "public_source_url": "https://oconeesc.com/emergency-services-home/emergency-management-home",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45073",
+      "criterion": "NONVOICE_CONTACT",
+      "status": "Documented in official source",
+      "public_source_url": "https://oconeesc.com/emergency-services-home/emergency-management-home",
+      "reviewed_date": "2026-11-07"
+    },
+    {
+      "fips": "45073",
+      "criterion": "SHELTER_COMMUNICATION",
+      "status": "Needs direct confirmation",
+      "public_source_url": "https://oconeesc.com/emergency-services-home/emergency-management-home",
+      "reviewed_date": "2026-11-07"
+    }
+  ],
+  "models": [
+    {
+      "model": "Baseline: 2024 overall positive rate",
+      "roc_auc": 0.5,
+      "average_precision": 0.2696,
+      "brier_score": 0.1994
+    },
+    {
+      "model": "Logistic: last-year report count",
+      "roc_auc": 0.5949,
+      "average_precision": 0.3316,
+      "brier_score": 0.1967
+    },
+    {
+      "model": "Logistic: last-year count + state",
+      "roc_auc": 0.6728,
+      "average_precision": 0.4001,
+      "brier_score": 0.1957
+    }
+  ]
+}
